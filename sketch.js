@@ -13,7 +13,7 @@ var obstaclesGroup,
   obstacle4,
   obstacle5,
   obstacle6;
-
+//hello
 var score;
 
 var gameOverImg, restartImg;
